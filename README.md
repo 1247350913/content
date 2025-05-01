@@ -6,9 +6,17 @@ Repository containing self-taught content from Textbooks, Certificates, or Other
 ## Certificates 
 
 ### (eventually add tablet hand-work links (or scanned images))
+
+<div style="overflow-x:auto;">
+  
+|     |     |     |     |     |     |     |
+|-----|-----|-----|-----|-----|-----|-----|
 | ![Logo](assets/coursera-rebrand-logo-square.jpg) | **Machine Learning** | *Coursera* | [logo] *Stanford Online* | Andrew Ng | 90 | *2025* |
 | ![Logo](assets/coursera-rebrand-logo-square.jpg) | **Full-Stack Engineering** | *Galvanize inc.* | [logo] *Hack Reactor* | Andrew Ng | 90 | *2023* |
 | ![Logo](assets/coursera-rebrand-logo-square.jpg) | **Analyzing and Visualizing Data with Power BI** | *edX* | [logo] *Davidson College* | Person | *covered by employer* | *2023* |
+
+</div>
+
 [Coursera] Machine Learning              Stanford Online  Andrew Ng    90      2025
 [Galvanize] Full-Stack Engineering       Hack Reactor                  18,000  2023
 [edX] Analyzing and Visualizing Data      Davidson College  Name        90      2022
