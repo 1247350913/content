@@ -2,11 +2,7 @@ This is an information repository containing content I have learned from various
 
 <h2 align="center"> Academia </h2>
 
-Textbook chapters I have worked through. These should probably go on a tablet. I can link to them here. Or scans for now.
-
 <h2 align="center"> Certificates </h2>
-
-eventually, I should add tablet hand-work links (or scanned images of notebook) or other links to the work for the content.
 
 <table>
   <tbody>
