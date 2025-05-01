@@ -1,22 +1,45 @@
-# self_learn
-Repository containing self-taught content from Textbooks, Certificates, or Otherwise
+This is an information repository containing content I have learned from various sources.
 
-## Texbook / Course (to be moved to a tablet probably)
+<h2 align="center"> Academia </h2>
 
-## Certificates 
+Textbook chapters I have worked through. These should probably go on a tablet. I can link to them here. Or scans for now.
 
-### (eventually add tablet hand-work links (or scanned images))
+<h2 align="center"> Certificates </h2>
 
-<div style="overflow-x:auto;">
-  
-|     |     |     |     |     |     |     |
-|-----|-----|-----|-----|-----|-----|-----|
-| ![Logo](assets/coursera-rebrand-logo-square.jpg) | **Machine Learning** | *Coursera* | [logo] *Stanford Online* | Andrew Ng | 90 | *2025* |
-| ![Logo](assets/coursera-rebrand-logo-square.jpg) | **Full-Stack Engineering** | *Galvanize inc.* | [logo] *Hack Reactor* | Andrew Ng | 90 | *2023* |
-| ![Logo](assets/coursera-rebrand-logo-square.jpg) | **Analyzing and Visualizing Data with Power BI** | *edX* | [logo] *Davidson College* | Person | *covered by employer* | *2023* |
+eventually, I should add tablet hand-work links (or scanned images of notebook) or other links to the work for the content.
 
-</div>
-
-[Coursera] Machine Learning              Stanford Online  Andrew Ng    90      2025
-[Galvanize] Full-Stack Engineering       Hack Reactor                  18,000  2023
-[edX] Analyzing and Visualizing Data      Davidson College  Name        90      2022
+<table>
+  <tbody>
+    <!-- Add more rows as needed -->
+    <tr>
+      <td><img src="assets/coursera-rebrand-logo-square.jpg"/></td>
+      <td><strong>Machine Learning</strong></td>
+      <td><em>Coursera</em></td>
+      <td>Andrew Ng</td>
+      <td><img src="assets/sf_online.jpg"/></td>
+      <td><em>Stanford Online</em></td>
+      <td>90</td>
+      <td><em>2025</em></td>
+    </tr>
+    <tr>
+      <td><img src="assets/galvanize.jpg"/></td>
+      <td><strong>Full-Stack Engineering</strong></td>
+      <td><em>Galvanize Inc.</em></td>
+      <td>--</td>
+      <td><img src="assets/hr.jpg"/></td>
+      <td><em>Hack Reactor</em></td>
+      <td>18,000</td>
+      <td><em>2023</em></td>
+    </tr>
+    <tr>
+      <td><img src="assets/edx.jpg"/></td>
+      <td><strong>Analyzing and Visualizing Data with Power BI</strong></td>
+      <td><em>edX</em></td>
+      <td>Person</td>
+      <td><img src="assets/dc.jpg"/></td>
+      <td><em>Davidson College</em></td>
+      <td>covered by employer</td>
+      <td><em>2022</em></td>
+    </tr>
+  </tbody>
+</table>
