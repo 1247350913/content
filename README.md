@@ -12,7 +12,7 @@ eventually, I should add tablet hand-work links (or scanned images of notebook) 
   <tbody>
     <!-- Add more rows as needed -->
     <tr>
-      <td><img src="assets/coursera-rebrand-logo-square.jpg"/></td>
+      <td><img src="assets/coursera.jpg" width="50"/></td>
       <td><strong>Machine Learning</strong></td>
       <td><em>Coursera</em></td>
       <td>Andrew Ng</td>
@@ -22,7 +22,7 @@ eventually, I should add tablet hand-work links (or scanned images of notebook) 
       <td><em>2025</em></td>
     </tr>
     <tr>
-      <td><img src="assets/galvanize.jpg"/></td>
+      <td><img src="assets/galvanize.jpg" width="50"/></td>
       <td><strong>Full-Stack Engineering</strong></td>
       <td><em>Galvanize Inc.</em></td>
       <td>--</td>
