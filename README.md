@@ -33,9 +33,9 @@ eventually, I should add tablet hand-work links (or scanned images of notebook) 
     </tr>
     <tr>
       <td><img src="assets/edx.jpg"/></td>
-      <td><strong>Analyzing and Visualizing Data with Power BI</strong></td>
+      <td><strong><a href="https://www.edx.org/learn/power-bi/davidson-college-analyzing-and-visualizing-data-with-power-bi">Analyzing and Visualizing Data with Power BI</a></strong></td>
       <td><em>edX</em></td>
-      <td>Person</td>
+      <td><a href="https://www.google.com/search?q=Pete+Benbow" target="_blank">Pete Benbow</a></td>
       <td><img src="assets/dc.jpg"/></td>
       <td><em>Davidson College</em></td>
       <td>covered by employer</td>
