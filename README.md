@@ -1,4 +1,4 @@
-This is an information repository containing content I have learned from various sources.
+This is an information repository containing content I have learned from various sources over time for ongoing learning.
 
 <h2 align="center"> Academia </h2>
 
