@@ -5,11 +5,23 @@ https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/
 
 Here are some detailed learning objectives based on those categories summarized here:
 
-Philosophy
+Philosophy:
 
-Post-Reality
+THE Questions
+...
+
+Post-Reality:
+
+Unlocking and Surpassing the Brain Itself.
+Mathematics and Statistics and how they mesh with all other fields to paint of picture of what human-perceiveable reality seems to be.
+Applying math to this physical perception with physics and utizling this - can we create physical laws with better understanding?
 
 Helping Along Human Evolution:
+
+Moving us toward the singularity of consciousness
+Cybernetics
+Germline Human Editing
+Civil & Social & Natural Engineering
 
 Gene Editing and human genetics.
 Social Psychology - Human Nature. 
