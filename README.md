@@ -1,4 +1,35 @@
-This is an information repository containing content I have learned from various sources over time for ongoing learning.
+This is an information repository containing content I have absorbed from various sources over time for ongoing learning.
+
+Here are my career interests and societal directives:
+https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing
+
+Here are some detailed learning objectives based on those categories summarized here:
+
+Philosophy
+
+Post-Reality
+
+Helping Along Human Evolution:
+
+Gene Editing and human genetics.
+Social Psychology - Human Nature. 
+Moral Philosophy.
+Mechanical Physics of Nature.
+Earth Science all things:
+- Atmosphere
+- Clouds
+- Storms
+- The Rock
+- Natural Resources, metals etc.
+General Chemistry Understanding
+Essential Human Physiology
+Electro Physics
+The Principles and Techniques of Circuit Design and Function
+The large scale ecosystem of a massive software and how the code is split up
+The structure of Math / Proofs / Axioms / Why it works
+Statistics - basics, then select one key area 
+One area of Deep Math
+
 
 <h2 align="center"> Academia </h2>
 
