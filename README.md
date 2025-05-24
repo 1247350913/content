@@ -1,10 +1,11 @@
 This is an information repository containing content I have absorbed from various sources over time for ongoing learning.
 
-Here are my career interests and societal directives:
-https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing
+<h2 align="center"> Overview </h2>
 
-
-Here are some detailed learning objectives based on the document contents:
+<p align="center">
+<a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Passions</a> - This document contains my career interests, passions, and directives in life.
+Here are some detailed knowledge objectives based on the document contents: 
+</p>
 
 Philosophy:
 
@@ -55,7 +56,7 @@ One area of Deep Math
       <td><img src="assets/coursera.jpg"/></td>
       <td><strong><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></strong></td>
       <td><em><a href="https://www.coursera.org/">Coursera</a></em></td>
-      <td><a href="https://www.google.com/search?q=Andrew+Ng">Andrew Ng</td>
+      <td><a href="https://www.google.com/search?q=Andrew+Ng">Andrew Ng</a></td>
       <td><img src="assets/sf_online.jpg"/></td>
       <td><em><a href="https://online.stanford.edu/">Stanford Online</a></em></td>
       <td>$79</td>
