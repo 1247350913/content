@@ -4,7 +4,7 @@ Here are my career interests and societal directives:
 https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing
 
 
-Here are some detailed learning objectives based on the categories summarized in my interests document:
+Here are some detailed learning objectives based on the document contents:
 
 Philosophy:
 
