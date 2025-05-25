@@ -1,48 +1,80 @@
 This is an information repository containing content I have absorbed from various sources over time for ongoing learning.
 
+
 <h2 align="center"> Overview </h2>
 
 <p align="center">
 <a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Passions</a> - This document contains my career interests, passions, and directives in life.
-Here are some detailed knowledge objectives based on the document contents: 
 </p>
 
-Philosophy:
 
-THE Questions
-...
+<h2 align="center"> In Progress </h2>
 
-Post-Reality:
+**Philosophy**
+- *comp*
+  
+**Brain**
+- what do we mostly know
+- what are we missing
+  
+**Mathematics&Statistics**
+- Why do proofs work, what is the lowest level foundation of all math
+- proofs
+- ... every type of math ...
+- ... every type of stats ..
 
-Unlocking and Surpassing the Brain Itself.
-Mathematics and Statistics and how they mesh with all other fields to paint of picture of what human-perceiveable reality seems to be.
-Applying math to this physical perception with physics and utizling this - can we create physical laws with better understanding?
+**Reality&Matter;Physics**
+- Classical mechanics
+- Thermal physics
+- Other physics
+- Astrophysics
+- Quantum physics
 
-Helping Along Human Evolution:
+**EE**
+- Why electrons, why does this field make sense, high-level useage and future paths
+- Circuit Design
+- ... every EE concept here ...
 
-Moving us toward the singularity of consciousness
-Cybernetics
-Germline Human Editing
-Civil & Social & Natural Engineering
+**Humans & Bio**
+- Overall mechanics of the body
+- Best essential habits of a daily functioning body (nutrition, sleep, ...)
+- Gene Editing Methods
+- Translating human DNA into traits
+- Current potentials to enhance physical body parts
+- Possibilities to extend the lifespan of a human body or slow degradation
+    
+**Comp Sci**
+- Cybersecurity stuff
+- Networks stuff
+- Distributed Systems stuff
+- OS stuff
+- Containerization
+- Software paradigms for different languages
+- Memory management concepts
+- Rendering / frontend graphics stuff
+- Shell scripting commands Linux stuff
+- Typical video game system
+- Versioning
+- Hosting, CI/CD
+- Testing
+- Git usage in groups
 
-Gene Editing and human genetics.
-Social Psychology - Human Nature. 
-Moral Philosophy.
-Mechanical Physics of Nature.
-Earth Science all things:
-- Atmosphere
-- Clouds
-- Storms
-- The Rock
-- Natural Resources, metals etc.
-General Chemistry Understanding
-Essential Human Physiology
-Electro Physics
-The Principles and Techniques of Circuit Design and Function
-The large scale ecosystem of a massive software and how the code is split up
-The structure of Math / Proofs / Axioms / Why it works
-Statistics - basics, then select one key area 
-One area of Deep Math
+**Nature Science**
+- Atmosphere (Earth and others)
+- Clouds (Earth and others)
+- Storms (Earth and others)
+- The Rock (Earth and others)
+- Natural Resources, metals etc. (Earth and others)
+
+**Civil & Society**
+- City planning
+- Energy Generation, Distribution, Usage
+- Water Generation, Distribution, Usage
+- Typical house system
+
+**Chemistry**
+- Inorganic
+- Organic
 
 
 <h2 align="center"> Academia </h2>
