@@ -4,7 +4,7 @@ This is an information repository containing content I have absorbed from variou
 <h2 align="center"> Overview </h2>
 
 <p align="center">
-<a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Passions</a> - This document contains my career interests, passions, and directives in life.
+<a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Interests</a> - This document contains my career interests, passions, and directives in life.
 </p>
 
 
