@@ -91,7 +91,6 @@ This is an information repository containing content I have absorbed from variou
       <td><a href="https://www.google.com/search?q=Andrew+Ng">Andrew Ng</a></td>
       <td><img src="assets/sf_online.jpg"/></td>
       <td><em><a href="https://online.stanford.edu/">Stanford Online</a></em></td>
-      <td>$79</td>
       <td><em>2025</em></td>
       <td><a href="">link</a></td>
     </tr>
@@ -102,7 +101,6 @@ This is an information repository containing content I have absorbed from variou
       <td>--</td>
       <td><img src="assets/hr.jpg"/></td>
       <td><em><a href="https://www.hackreactor.com/">Hack Reactor</a></em></td>
-      <td>$18,000</td>
       <td><em>2023</em></td>
       <td><a href="">link</a></td>
     </tr>
@@ -113,7 +111,6 @@ This is an information repository containing content I have absorbed from variou
       <td><a href="https://www.google.com/search?q=Pete+Benbow">Pete Benbow</a></td>
       <td><img src="assets/dc.jpg"/></td>
       <td><em><a href="https://www.edx.org/school/davidsonx">Davidson College</a></em></td>
-      <td>$249 <em>employer</em></td>
       <td><em><a href="https://courses.edx.org/certificates/53dcad8f94a145cba4f35fd78d526aff">2022</a></em></td>
       <td><a href="">link</a></td>
     </tr>
