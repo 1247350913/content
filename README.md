@@ -70,6 +70,7 @@ This is an information repository containing content I have absorbed from variou
 - City planning
 - Energy Generation, Distribution, Usage
 - Water Generation, Distribution, Usage
+- Food Generation, Distribution, Usage
 - Typical house system
 
 **Chemistry**
@@ -90,8 +91,8 @@ This is an information repository containing content I have absorbed from variou
       <td><em><a href="https://www.coursera.org/">Coursera</a></em></td>
       <td><a href="https://www.google.com/search?q=Andrew+Ng">Andrew Ng</a></td>
       <td><img src="assets/sf_online.jpg"/></td>
-      <td><em><a href="https://online.stanford.edu/">Stanford Online</a></em></td>
-      <td><em>2025</em></td>
+      <td><em><a href="https://online.stanford.edu/">Stanford Online</em></td>
+      <td><em>2025</a></em></td>
       <td><a href="">link</a></td>
     </tr>
     <tr>
@@ -101,7 +102,7 @@ This is an information repository containing content I have absorbed from variou
       <td>--</td>
       <td><img src="assets/hr.jpg"/></td>
       <td><em><a href="https://www.hackreactor.com/">Hack Reactor</a></em></td>
-      <td><em>2023</em></td>
+      <td><em><a href="https://github.com/1247350913/content/blob/main/assets/GVNZ.pdf">2023</a></em></td>
       <td><a href="">link</a></td>
     </tr>
     <tr>
