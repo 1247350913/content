@@ -13,7 +13,7 @@ This is an information repository containing content I have absorbed from variou
 **Philosophy**
 - *comp*
   
-**Brain**
+**Brain/Consciousness**
 - what do we mostly know
 - what are we missing
   
