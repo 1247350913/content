@@ -103,7 +103,7 @@ This is an information repository containing content I have absorbed from variou
 - Networking (TCP/IP, DNS, routing)
 - Distributed systems (CAP theorem, consensus, etc.)
 - Databases (relational and NoSQL)
-- Algorithms and data structures
+- ~~DSA (data structures algorithms)~~
 - Computability theory
 - Machine Learning & AI
 - Versioning (Git, GitHub workflows)
