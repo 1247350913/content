@@ -4,78 +4,166 @@ This is an information repository containing content I have absorbed from variou
 <h2 align="center"> Overview </h2>
 
 <p align="center">
-<a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Interests</a> - This document contains my career interests, passions, and directives in life.
+<a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Interests</a> - This document contains my career interests, passions, and directives in life. A cover letter of sorts. Based on those objectives, here is the list of topics I am in progress toward understanding deeply. The respective course material I use is listed in the tables below this list. Those tables are not comprehensive, they are there for additional utility. I intend to complete this list, then use this knowledge to make as many global changes as I can toward the goals in my intentions document.
 </p>
 
 
-<h2 align="center"> In Progress </h2>
+<h2 align="center"> Foundation </h2>
 
-**Philosophy**
-- *comp*
-  
-**Brain/Consciousness**
-- what do we mostly know
-- what are we missing
-  
+**Philosophy and Social Psychology**
+- What is knowledge? What is truth? (Epistemology)
+- What is existence? What is real? (Metaphysics)
+- What is good? What should we do? (Ethics)
+- What is beautiful? (Aesthetics)
+- Logic and reasoning systems
+- Political philosophy
+- Philosophy of science and math
+- ✳️ Eastern and Indigenous worldviews
+- ✳️ Philosophy of mind and AI
+- Cognitive, social, developmental psychology
+- Behavioral economics
+- ✳️ Evolutionary psychology
+- ✳️ Addiction, motivation, habit formation
+- Learning science
+- Teaching methodologies
+- ✳️ Knowledge transmission systems
+- ✳️ AI tutoring and future of education
+----
+**Consciousness&NeuroScience**
+- Nervous system structure and function
+- Brain architecture (lobes, neuron types, etc.)
+- Neural plasticity
+- Brain chemistry (neurotransmitters, etc.)
+- Brain imaging and mapping
+- ✳️ States of consciousness (sleep, meditation, drugs, etc.)
+- ✳️ Cognitive science (attention, perception, learning)
+- ✳️ Theories of consciousness (e.g. Global Workspace, IIT, etc.)
+- ✳️ Brain-computer interfaces / neural implants
+- ✳️ Mind uploading / simulation theory / ethics
+----
+**Genetics&Bioengineering**
+- Evolution and human ancestry
+- Genetics (DNA, RNA, epigenetics)
+- Gene editing (CRISPR, TALENs)
+- ✳️ Tissue engineering / 3D printing organs
+- ✳️ Longevity science / senescence / telomeres
+- ✳️ Bionics / prosthetics / implants
+- ✳️ Synthetic Biology
+----
 **Mathematics&Statistics**
-- Why do proofs work, what is the lowest level foundation of all math
-- proofs
-- ... every type of math ...
-- ... every type of stats ..
-
+- Foundations: Set theory, Logic, Proof Techniques
+- Algebra, Geometry, Trigonometry
+- Linear Algebra
+- Calculus (I, II, Multivariable)
+- Real Analysis / Complex Analysis
+- Topology
+- Number Theory
+- Combinatorics
+- Probability theory
+- Statistics (Bayesian and frequentist)
+- ✳️ Abstract algebra (groups, rings, fields)
+- ✳️ Category theory (for CS/AI/theory bridges)
+- ✳️ Information theory (entropy, compression, inference)
+- ✳️ Mathematics of computation (Turing machines, decidability)
+- ✳️ Applied math / modeling
+- ✳️ Dynamical systems / chaos theory (nonlinear systems, attractors)
+----
 **Reality&Matter;Physics**
 - Classical mechanics
-- Thermal physics
-- Other physics
-- Astrophysics
-- Quantum physics
-
+- Electromagnetism
+- Thermodynamics / Statistical Mechanics
+- Quantum mechanics
+- Relativity (special & general)
+- Astrophysics & cosmology
+- Experimental physics methods (detectors, instrumentation)
+- ✳️ Field theory / particle physics / Standard Model
+- ✳️ Condensed matter physics
+- ✳️ Quantum field theory (QFT)
+- ✳️ Emergent phenomena / complexity
+- ✳️ Simulation hypothesis / computational physics
+----
 **EE**
-- Why electrons, why does this field make sense, high-level useage and future paths
-- Circuit Design
-- ... every EE concept here ...
-
-**Humans & Bio**
-- Overall mechanics of the body
-- Best essential habits of a daily functioning body (nutrition, sleep, ...)
-- Gene Editing Methods
-- Translating human DNA into traits
-- Current potentials to enhance physical body parts
-- Possibilities to extend the lifespan of a human body or slow degradation
-    
+- Electrons and current: what is actually happening?
+- Signal types and analog/digital signals
+- Circuit design (passive and active components)
+- Semiconductor devices (diodes, transistors)
+- PCB design and fabrication
+- Microcontrollers and embedded systems
+- RF & communications
+- Power systems and energy efficiency
+- Electromagnetic Compatibility (EMC) and Signal Integrity
+- ✳️ Control systems / feedback loops
+- ✳️ FPGA / ASIC design
+- ✳️ Sensor networks / IoT
+- ✳️ Neural signal decoding (interfacing with biology)
+---- 
 **Comp Sci**
-- Cybersecurity stuff
-- Networks stuff
-- Distributed Systems stuff
-- OS stuff
-- Containerization
-- Software paradigms for different languages
-- Memory management concepts
-- Rendering / frontend graphics stuff
-- Shell scripting commands Linux stuff
-- Typical video game system
-- Versioning
-- Hosting, CI/CD
-- Testing
-- Git usage in groups
-
+- Programming languages (low-level to high-level paradigms)
+- Operating systems (memory, processes, kernel)
+- Networking (TCP/IP, DNS, routing)
+- Distributed systems (CAP theorem, consensus, etc.)
+- Databases (relational and NoSQL)
+- Algorithms and data structures
+- Computability theory
+- Machine Learning & AI
+- Versioning (Git, GitHub workflows)
+- CI/CD and deployment pipelines
+- DevOps / containers (Docker, Kubernetes)
+- Testing & debugging
+- Cybersecurity (threat models, encryption)
+- ✳️ Cloud architecture (AWS/GCP)
+- ✳️ Graphics / real-time rendering (OpenGL, shaders)
+- ✳️ Compilers and language design
+- ✳️ AR/VR systems
+- ✳️ Quantum computing basics
+----
 **Nature Science**
-- Atmosphere (Earth and others)
-- Clouds (Earth and others)
-- Storms (Earth and others)
-- The Rock (Earth and others)
-- Natural Resources, metals etc. (Earth and others)
-
-**Civil & Society**
-- City planning
-- Energy Generation, Distribution, Usage
-- Water Generation, Distribution, Usage
-- Food Generation, Distribution, Usage
-- Typical house system
-
+- Geology and plate tectonics
+- Meteorology and climate systems
+- Oceanography and hydrology
+- Ecology and ecosystem dynamics (networks, resilience, interactions)
+- Natural resources & critical materials
+- Volcanology, earthquakes, storms
+- ✳️ Space science (planets, atmospheres, exoplanets)
+- ✳️ Environmental systems / biosphere feedbacks
+----
+**Civil&Society**
+- Urban design & smart cities
+- Transportation networks (road, rail, air)
+- Civil engineering basics (bridges, dams, etc.)
+- Water purification, delivery, sewage
+- Electrical grid systems & energy types
+- Food supply chains & agricultural tech
+- Systems thinking / complexity in human systems
+- ✳️ Waste management / recycling systems
+- ✳️ Disaster-resilient infrastructure
+- ✳️ AI / sensors in city management
+- ✳️ Energy harvesting (solar, kinetic, etc.)
+- Micro and macroeconomics
+- Trade and globalization
+- ✳️ Monetary systems / crypto / future finance
+- ✳️ Governance and societal resilience
+----
+**Humans&Biology&Healthcare**
+- Physiology (organ systems)
+- Cell biology and anatomy
+- Metabolism, nutrition, homeostasis
+- Bioinformatics
+- Human microbiome & host-microbe interactions
+- ✳️ Nutrigenomics and biohacking
+----
 **Chemistry**
-- Inorganic
-- Organic
+- Atomic theory, bonding
+- Periodic table, chemical reactions
+- Thermodynamics & kinetics
+- Inorganic chemistry
+- Organic chemistry (carbon chains, functional groups)
+- Analytical chemistry (chromatography, spectrometry)
+- ✳️ Materials chemistry / Polymer science / plastics
+- ✳️ Environmental chemistry
+- ✳️ Chemistry of life (biochemistry crossover)
+- ✳️ Environmental chemistry
+- ✳️ Chemoinformatics & computational chemistry
 
 
 <h2 align="center"> Academia </h2>
