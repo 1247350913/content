@@ -4,7 +4,7 @@ This is an information repository containing content I have absorbed from variou
 <h2 align="center"> Overview </h2>
 
 <p align="center">
-<a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Interests</a> - This document contains my career interests, passions, and directives in life. A cover letter of sorts. Based on those objectives, here is the list of topics I am in progress toward understanding deeply. The respective course material I use is listed in the tables below this list. Those tables are not comprehensive, they are there for additional utility. I intend to complete this list, then use this knowledge to make as many global changes as I can toward the goals in my intentions document.
+<a href="https://docs.google.com/document/d/1BsKzem54EkzekDI72EVts2a5bX-c-qqbbWRyz2dpC_o/edit?usp=sharing">Interests</a> - This document contains my career interests, passions, and directives in life. A cover letter of sorts. Based on those objectives, here is a list of topics I am in progress toward understanding deeply. The respective course material I use is mostly listed in the tables below this list. Those tables are not comprehensive, they are there for additional utility. I intend to complete this list, then use this knowledge to make as many global changes as I can toward the goals in my intentions document.
 </p>
 
 
