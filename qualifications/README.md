@@ -1,4 +1,4 @@
-<h2 align="center"> Certificates </h2>
+<h2 align="center"> Qualifications </h2>
 
 <table>
   <tbody>
