@@ -16,10 +16,10 @@
     <!-- Extron -->
     <tr>
       <td><img src="assets/extron.png"  width="50"/></td>
-      <td><strong><a href="https://www.coursera.org/learn/machine-learning">AV Associate</a></strong></td>
+      <td><strong><a>AV Associate</a></strong></td>
       <td><em><a href="https://www.extron.com/">Extron</a></em></td>
       <td>--</td>
-      <td><img src="assets/extroncert.jpg"/></td>
+      <td><img src="assets/extroncert.png" width="50"/></td>
       <td>--</td>
       <td><em>2025</a></em></td>
       <td><a href="">link</a></td>
