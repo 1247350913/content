@@ -2,7 +2,7 @@
 
 <table>
   <tbody>
-    <!-- Add more rows as needed -->
+    <!-- ML -->
     <tr>
       <td><img src="assets/coursera.jpg"/></td>
       <td><strong><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></strong></td>
@@ -13,6 +13,18 @@
       <td><em>2025</a></em></td>
       <td><a href="">link</a></td>
     </tr>
+    <!-- Extron -->
+    <tr>
+      <td><img src="assets/coursera.jpg"/></td>
+      <td><strong><a href="https://www.coursera.org/learn/machine-learning">AV Associate</a></strong></td>
+      <td><em><a href="https://www.coursera.org/">Extron</a></em></td>
+      <td><a href="https://www.google.com/search?q=Andrew+Ng">--</a></td>
+      <td><img src="assets/sf_online.jpg"/></td>
+      <td><em><a href="https://online.stanford.edu/">--</em></td>
+      <td><em>2025</a></em></td>
+      <td><a href="">link</a></td>
+    </tr>
+    <!-- HR -->
     <tr>
       <td><img src="assets/galvanize.jpg" width="50"/></td>
       <td><strong><a href="https://www.hackreactor.com/online-coding-bootcamp/part-time-coding-bootcamp/">Full-Stack Engineering</a></strong></td>
@@ -23,6 +35,7 @@
       <td><em><a href="https://github.com/1247350913/content/blob/main/assets/GVNZ.pdf">2023</a></em></td>
       <td><a href="">link</a></td>
     </tr>
+    <!-- PBI -->
     <tr>
       <td><img src="assets/edx.jpg"/></td>
       <td><strong><a href="https://www.edx.org/learn/power-bi/davidson-college-analyzing-and-visualizing-data-with-power-bi">Analyzing and Visualizing Data with Power BI</a></strong></td>
