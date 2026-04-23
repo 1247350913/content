@@ -15,12 +15,12 @@
     </tr>
     <!-- Extron -->
     <tr>
-      <td><img src="assets/coursera.jpg"/></td>
+      <td><img src="assets/extron.png"  width="50"/></td>
       <td><strong><a href="https://www.coursera.org/learn/machine-learning">AV Associate</a></strong></td>
-      <td><em><a href="https://www.coursera.org/">Extron</a></em></td>
-      <td><a href="https://www.google.com/search?q=Andrew+Ng">--</a></td>
-      <td><img src="assets/sf_online.jpg"/></td>
-      <td><em><a href="https://online.stanford.edu/">--</em></td>
+      <td><em><a href="https://www.extron.com/">Extron</a></em></td>
+      <td>--</td>
+      <td><img src="assets/extroncert.jpg"/></td>
+      <td>--</td>
       <td><em>2025</a></em></td>
       <td><a href="">link</a></td>
     </tr>
