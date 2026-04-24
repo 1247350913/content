@@ -5,11 +5,11 @@
     <!-- ML -->
     <tr>
       <td><img src="assets/coursera.jpg"/></td>
-      <td><strong><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></strong></td>
-      <td><em><a href="https://www.coursera.org/">Coursera</a></em></td>
-      <td><a href="https://www.google.com/search?q=Andrew+Ng">Andrew Ng</a></td>
+      <td><strong><a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">Machine Learning</a></strong></td>
+      <td><em><a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Coursera</a></em></td>
+      <td><a href="https://www.google.com/search?q=Andrew+Ng" target="_blank" rel="noopener noreferrer">Andrew Ng</a></td>
       <td><img src="assets/sf_online.jpg"/></td>
-      <td><em><a href="https://online.stanford.edu/">Stanford Online</em></td>
+      <td><em><a href="https://online.stanford.edu/" target="_blank" rel="noopener noreferrer">Stanford Online</em></td>
       <td><em>2026</a></em></td>
       <td><a>link</a></td>
     </tr>
