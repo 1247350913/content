@@ -9,7 +9,7 @@
       <td><em><a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Coursera</a></em></td>
       <td><a href="https://www.google.com/search?q=Andrew+Ng" target="_blank" rel="noopener noreferrer">Andrew Ng</a></td>
       <td><img src="assets/sf_online.jpg"/></td>
-      <td><em><a href="https://online.stanford.edu/" target="_blank" rel="noopener noreferrer">Stanford Online</em></td>
+      <td><em><a href="https://online.stanford.edu/" target="_blank" rel="noopener noreferrer">Stanford Online</a></em></td>
       <td><em>2026</a></em></td>
       <td><a>link</a></td>
     </tr>
