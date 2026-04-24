@@ -32,7 +32,7 @@
       <td>--</td>
       <td><img src="assets/hr.jpg"/></td>
       <td><em><a href="https://www.hackreactor.com/">Hack Reactor</a></em></td>
-      <td><em><a href="https://github.com/1247350913/content/blob/main/assets/GVNZ.pdf">2023</a></em></td>
+      <td><em><a href="https://github.com/1247350913/content/qualifications/pdfs/Full-Stack Engineering.pdf">2023</a></em></td>
       <td><a>link</a></td>
     </tr>
     <!-- PBI -->
@@ -43,7 +43,7 @@
       <td><a href="https://www.google.com/search?q=Pete+Benbow">Pete Benbow</a></td>
       <td><img src="assets/dc.jpg"/></td>
       <td><em><a href="https://www.edx.org/school/davidsonx">Davidson College</a></em></td>
-      <td><em><a href="https://courses.edx.org/certificates/53dcad8f94a145cba4f35fd78d526aff">2022</a></em></td>
+      <td><em><a href="https://github.com/1247350913/content/qualifications/pdfs/Analyzing and Visualizing Data with Power BI.pdf">2022</a></em></td>
       <td><a>link</a></td>
     </tr>
   </tbody>
