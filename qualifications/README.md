@@ -11,18 +11,18 @@
       <td><img src="assets/sf_online.jpg"/></td>
       <td><em><a href="https://online.stanford.edu/">Stanford Online</em></td>
       <td><em>2026</a></em></td>
-      <td><a href="">link</a></td>
+      <td><a>link</a></td>
     </tr>
     <!-- Extron -->
     <tr>
       <td><img src="assets/extron.png"  width="50"/></td>
-      <td><strong><a>AV Associate</a></strong></td>
+      <td><strong><a href="https://www.extron.com/article/avassociate">AV Associate</a></strong></td>
       <td><em><a href="https://www.extron.com/">Extron</a></em></td>
       <td>--</td>
       <td>--</td>
       <td>--</td>
       <td><em>2026</a></em></td>
-      <td><a href="">link</a></td>
+      <td><a>link</a></td>
     </tr>
     <!-- HR -->
     <tr>
@@ -33,7 +33,7 @@
       <td><img src="assets/hr.jpg"/></td>
       <td><em><a href="https://www.hackreactor.com/">Hack Reactor</a></em></td>
       <td><em><a href="https://github.com/1247350913/content/blob/main/assets/GVNZ.pdf">2023</a></em></td>
-      <td><a href="">link</a></td>
+      <td><a>link</a></td>
     </tr>
     <!-- PBI -->
     <tr>
@@ -44,7 +44,7 @@
       <td><img src="assets/dc.jpg"/></td>
       <td><em><a href="https://www.edx.org/school/davidsonx">Davidson College</a></em></td>
       <td><em><a href="https://courses.edx.org/certificates/53dcad8f94a145cba4f35fd78d526aff">2022</a></em></td>
-      <td><a href="">link</a></td>
+      <td><a>link</a></td>
     </tr>
   </tbody>
 </table>
