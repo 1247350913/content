@@ -13,7 +13,7 @@
       <td><em>2026</a></em></td>
       <td><a>link</a></td>
     </tr>
-    <!-- Extron -->
+    <!-- AV Associate -->
     <tr>
       <td><img src="logos/extron.png"  width="50"/></td>
       <td><strong><a href="https://www.extron.com/article/avassociate">AV Associate</a></strong></td>
