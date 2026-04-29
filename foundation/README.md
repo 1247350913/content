@@ -1,6 +1,6 @@
 <h2 align="center"> Foundational List for Training Inspiration </h2>
 
-<p> I intend to complete this list, then use this knowledge to make as many global changes as I can toward the goals in my overview section. </p>
+<p> I intend to complete this list, then use this knowledge to make as many global changes as I can toward objectives. </p>
 
 **Philosophy and Social Psychology**
 - What is knowledge? What is truth? (Epistemology)
