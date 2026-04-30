@@ -21,7 +21,7 @@
       <td>--</td>
       <td>--</td>
       <td>--</td>
-      <td><em>2026</a></em></td>
+      <td><em><a href="https://github.com/1247350913/content/blob/main/qualifications/pdfs/AV Associate.pdf">2026</a></em></td>
       <td><a>link</a></td>
     </tr>
     <!-- HR -->
