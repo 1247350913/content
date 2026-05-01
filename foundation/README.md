@@ -13,6 +13,7 @@
 - General and overall aesthetics (Dynamic preferences)
 - Cognitive psychology (Attention, memory, decision-making, motivation, habits, addiction)
 - Social psychology (Influence, status, conformity, interpersonal dynamics)
+- Theories about Reality (Theories exploration overall)
 ----
 **Civil&Society**
 - Systems thinking and complexity in human systems (Feedback loops, incentives, emergence)
@@ -73,82 +74,81 @@
 - Applied mathematics and modeling (Translating real systems into math)
 ----
 **Reality&Matter;Physics**
-- Classical mechanics
-- Electromagnetism
-- Thermodynamics / Statistical Mechanics
-- Quantum mechanics
-- Relativity (special & general)
-- Astrophysics & cosmology
-- Experimental physics methods (detectors, instrumentation)
-- ✳️ Field theory / particle physics / Standard Model
-- ✳️ Condensed matter physics
-- ✳️ Quantum field theory (QFT)
-- ✳️ Emergent phenomena / complexity
-- ✳️ Simulation hypothesis / computational physics
+- Classical mechanics (Motion, forces, energy, deterministic systems)
+- Electromagnetism (Fields, waves, light, charge interactions)
+- Thermodynamics and statistical mechanics (Energy, entropy, statistical behavior of many-particle systems)
+- Quantum mechanics (Microscopic behavior, probability, measurement)
+- Relativity (Space, time, gravity, special and general)
+- Condensed matter physics (Materials, phases, emergent properties)
+- Field theory and particle physics (Standard Model, fundamental interactions)
+- Experimental physics methods (Measurement, detectors, instrumentation, uncertainty)
+- Astrophysics and cosmology (Stars, galaxies, origin of the universe)
+- Complex systems and emergence (Collective behavior, nonlinear interactions)
+- Computational and simulated physics (Numerical methods, simulation of physical systems)
 ----
 **EE**
-- Electrons and current: what is actually happening?
-- Signal types and analog/digital signals
-- Circuit design (passive and active components)
-- Semiconductor devices (diodes, transistors)
-- PCB design and fabrication
-- Microcontrollers and embedded systems
-- RF & communications
-- Power systems and energy efficiency
-- Electromagnetic Compatibility (EMC) and Signal Integrity
-- ✳️ Control systems / feedback loops
-- ✳️ FPGA / ASIC design
-- ✳️ Sensor networks / IoT
-- ✳️ Neural signal decoding (interfacing with biology)
+- Charge and current (What electrons are doing, voltage, fields, physical basis)
+- Signals (Analog and digital representations, time and frequency)
+- Circuit design (Passive and active components, system behavior)
+- Semiconductor devices (Diodes, transistors, switching, amplification)
+- Digital logic (Gates, Boolean algebra, state machines, synchronous systems)
+- Embedded systems (Microcontrollers, hardware-software interaction)
+- Printed circuit boards (Layout, fabrication, physical implementation)
+- Communication systems (RF, wireless, information transmission)
+- Power systems (Generation, distribution, efficiency, conversion)
+- Signal integrity and electromagnetic compatibility (Noise, interference, reliability constraints)
+- Control systems (Feedback, stability, system regulation)
+- Hardware design systems (FPGA, ASIC, digital system architecture)
+- Sensor and measurement systems (Data acquisition, instrumentation, interfacing with the physical world)
+- Bioelectrical interfacing (Neural signal decoding, interaction with biological systems)
 ---- 
 **Comp Sci**
-- Programming languages (low-level to high-level paradigms)
-- Operating systems (memory, processes, kernel)
-- Networking (TCP/IP, DNS, routing)
-- Distributed systems (CAP theorem, consensus, etc.)
-- Databases (relational and NoSQL)
-- ~~DSA (data structures algorithms)~~
-- Computability theory
-- Machine Learning & AI
-- Versioning (Git, GitHub workflows)
-- CI/CD and deployment pipelines
-- DevOps / containers (Docker, Kubernetes)
-- Testing & debugging
-- Cybersecurity (threat models, encryption)
-- ✳️ Cloud architecture (AWS/GCP)
-- ✳️ Graphics / real-time rendering (OpenGL, shaders)
-- ✳️ Compilers and language design
-- ✳️ AR/VR systems
-- ✳️ Quantum computing basics
+- Programming languages (Abstractions, paradigms, low- to high-level execution)
+- Compilers and language design (Translation, optimization, execution models)
+- Data structures and algorithms (Core structures, complexity, efficiency)
+- Computability and complexity theory (What can or cannot be computed)
+- Operating systems (Memory, processes, scheduling, resource management)
+- Networking (TCP/IP, DNS, routing, communication between systems)
+- Databases (Relational and NoSQL, storage, querying, consistency)
+- Distributed systems (Consensus, CAP theorem, scaling across machines)
+- Software engineering practices (Versioning, testing, debugging, maintainability)
+- Deployment and infrastructure (CI/CD, containers, DevOps, system reliability)
+- Cloud architecture (Large-scale system design, AWS/GCP patterns)
+- Cybersecurity (Threat models, encryption, system security)
+- Machine learning and AI (Learning systems, inference, data-driven models)
+- Graphics and real-time systems (Rendering, simulation, visual systems)
+- Advanced paradigms (AR/VR systems, quantum computing basics)
 ----
 **Nature Science**
-- Geology and plate tectonics
-- Meteorology and climate systems
-- Oceanography and hydrology
-- Ecology and ecosystem dynamics (networks, resilience, interactions)
-- Natural resources & critical materials
-- Volcanology, earthquakes, storms
-- ✳️ Space science (planets, atmospheres, exoplanets)
-- ✳️ Environmental systems / biosphere feedbacks
-
+- Geology and plate tectonics (Earth structure, crust dynamics, long-term formation)
+- Oceanography and hydrology (Water systems, circulation, distribution)
+- Meteorology and climate systems (Atmosphere, weather, climate dynamics)
+- Ecology and ecosystem dynamics (Biological networks, interactions, resilience)
+- Environmental systems and biosphere feedbacks (Coupled Earth systems, stability, change)
+- Natural resources and critical materials (Energy, minerals, extraction, constraints)
+- Natural hazards (Volcanoes, earthquakes, storms, extreme events)
+- Planetary and space science (Planets, atmospheres, exoplanets, comparative systems)
 ----
 **Humans&Biology&Healthcare**
-- Physiology (organ systems)
-- Cell biology and anatomy
-- Metabolism, nutrition, homeostasis
-- Bioinformatics
-- Human microbiome & host-microbe interactions
-- ✳️ Nutrigenomics and biohacking
+- Cell biology and anatomy (Cells, tissues, organ structure, organization)
+- Physiology (Organ systems, function, integration across the body)
+- Metabolism and homeostasis (Energy use, regulation, internal stability)
+- Evolution and natural selection (Origins, adaptation, constraints, variation)
+- Biological diversity (Species, ecosystems, comparative biology across life)
+- Human microbiome (Host-microbe interactions, symbiosis, systemic effects)
+- Bioinformatics (Biological data, measurement, computational analysis)
+- Nutrition and personalized biology (Diet, nutrigenomics, individual variation)
+- Healthcare systems (Diagnosis, treatment, prevention, current vs ideal models)
 ----
 **Chemistry**
-- Atomic theory, bonding
-- Periodic table, chemical reactions
-- Thermodynamics & kinetics
-- Inorganic chemistry
-- Organic chemistry (carbon chains, functional groups)
-- Analytical chemistry (chromatography, spectrometry)
-- ✳️ Materials chemistry / Polymer science / plastics
-- ✳️ Environmental chemistry
-- ✳️ Chemistry of life (biochemistry crossover)
-- ✳️ Environmental chemistry
-- ✳️ Chemoinformatics & computational chemistry
+- Atomic structure and bonding (Atoms, electrons, orbitals, chemical bonds)
+- Periodic structure and properties (Trends, reactivity, element behavior)
+- Chemical reactions (Stoichiometry, equilibrium, reaction types)
+- Thermodynamics and kinetics (Energy, spontaneity, reaction rates)
+- Inorganic chemistry (Non-carbon systems, metals, coordination, materials basis)
+- Organic chemistry (Carbon structures, functional groups, molecular design)
+- Biochemistry (Chemistry of life, proteins, metabolism crossover)
+- Analytical chemistry (Measurement, chromatography, spectrometry, identification)
+- Materials and polymer chemistry (Solids, polymers, structure–property relationships)
+- Environmental chemistry (Chemical cycles, pollution, atmospheric and water chemistry)
+- Computational and data-driven chemistry (Modeling, simulation, chemoinformatics)
