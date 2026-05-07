@@ -13,7 +13,7 @@
 - General and overall aesthetics (Dynamic preferences)
 - Cognitive psychology (Attention, memory, decision-making, motivation, habits, addiction)
 - Social psychology (Influence, status, conformity, interpersonal dynamics)
-- Theories about Reality (Theories exploration overall)
+- Theories about reality (Overall theories exploration)
 ----
 **Civil&Society**
 - Systems thinking and complexity in human systems (Feedback loops, incentives, emergence)
